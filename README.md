@@ -12,6 +12,8 @@ http://localhost:8000
 
 Laravel Version Used : 12.19.3
 
+Assumption - didn't use payment helper for purchase, basic frontend.
+
 =======
 
 
